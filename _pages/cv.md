@@ -23,7 +23,7 @@ Work experience
 
 * Summer 2023: Summer Research Intern 
   * Michigan State University
-  * Research Focus: controllable 3D generation
+  * Research Focus: controllable text to 3D generation
   * Supervisor: Dr. Feng Liu, Prof. Xiaoming liu
   
 Skills
