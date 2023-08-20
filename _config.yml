@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "ZiAng Gu"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "ZiAng Gu"
 description              : &description "CS Undergrad at Michigan State University"
