@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Homepage"
 title_separator          : "-"
-name                     : &name "ZiAng Gu"
+name                     : &name "Homepage"
 description              : &description "CS Undergrad at Michigan State University"
 url                      : https://ZiAngGu1.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : ""
