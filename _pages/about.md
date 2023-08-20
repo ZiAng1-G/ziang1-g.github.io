@@ -15,7 +15,7 @@ My research focuses on 3D object/scene understanding, including 3d generation, 3
 
 Summer 2024 Internship Opportunity
 ======
-I am open to internship/REUs in the field of computer vision, machine learning, data science, or related fields. 
+I am looking for internship/REUs in the field of computer vision, machine learning, data science, or related fields. 
 If you have anything you would like to discuss with me, plz send me an email to guziang@msu.edu 
 
 
