@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Resume"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -21,7 +21,7 @@ Work experience
   * Research Focus: 3D reconstruction and person-reid
   * Supervisor: Dr. Feng Liu, Prof. Xiaoming liu
 
-* Summer 2023: Summer research intern 
+* Summer 2023: Summer Research Intern 
   * Michigan State University
   * Research Focus: controllable 3D generation
   * Supervisor: Dr. Feng Liu, Prof. Xiaoming liu
