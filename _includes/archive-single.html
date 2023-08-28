@@ -39,15 +39,7 @@
       {% if post.link %}
         {{ post.author }}
       {% else %}
-        {% assign authors = post.author | split: ', ' %}
-        {% for author in authors %}
-          {% if author == "ZiAng Gu" %}
-            <span class="highlight">{{ author }}</span>
-          {% else %}
-            {{ author }}
-          {% endif %}
-          {% unless forloop.last %}, {% endunless %}
-        {% endfor %}
+        {{ post.author }}
       {% endif %}
      </h2>
     
