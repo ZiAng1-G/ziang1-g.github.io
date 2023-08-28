@@ -39,7 +39,8 @@
 
    
       {% if post.link %}
-        <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ post.author }}</a>
+        <a {{ post.author }}</a>
+      
       {% endif %}
     
     
