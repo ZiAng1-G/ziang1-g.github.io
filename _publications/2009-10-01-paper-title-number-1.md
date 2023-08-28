@@ -8,5 +8,5 @@ venue: 'International Conference on Computer Vision (ICCV)'
 paperurl: 'arxiv(https://arxiv.org/abs/2308.10658)'
 ---
 
-[Download paper here](https://arxiv.org/abs/2308.10658)
+[Arxiv](https://arxiv.org/abs/2308.10658)
 
