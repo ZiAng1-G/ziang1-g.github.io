@@ -38,7 +38,7 @@
       {% if post.link %}
         {{ post.author }}
       {% else %}
-        <a {{ post.author }}</a>
+        {{ post.author }}
       
       {% endif %}
     
@@ -63,7 +63,7 @@
     
     {% if post.codeurl and post.paperurl %}
        <p><a href=" {{ post.paperurl }} "><u>Arxiv</u></a></p>
-       <p><a href=" {{ post.codeurl }} "><u>Arxiv</u></a></p>
+       <p><a href=" {{ post.codeurl }} "><u>Code</u></a></p>
     {% elsif post.citation %}
       <p>Recommended citation: {{ post.citation }} </p>
     {% elsif post.paperurl %}
