@@ -36,9 +36,9 @@
 
    
       {% if post.link %}
-        {{ post.author }}
+        {{ post.author | replace: "ZiAng Gu", "<span class='highlight'>ZiAng Gu</span>" }}
       {% else %}
-        {{ post.author }}
+        {{ post.author | replace: "ZiAng Gu", "<span class='highlight'>ZiAng Gu</span>" }}
       
       {% endif %}
     
