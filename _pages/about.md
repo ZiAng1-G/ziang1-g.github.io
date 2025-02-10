@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-**Hello!** I am the **co-founder and CEO** of [1ShanAI](https://1shans.com), where I lead the development and deployment of several AI applications. Our flagship project, [1Shan](https://1shanai), focuses on an **AI for cloth** initiative that blends generative AI with the fashion industry. We are also developing [Mythoverse](https://mythoverse.ai), a platform for creating and sharing stories as **audiobook-like TikTok-style videos**, and working on improving the **aesthetics** of generative models. **For more details, please visit our [website](https://1shanai.com).**
+**Hello!** I am the **co-founder and CEO** of [1ShanAI](https://1shans.com), where I lead the development and deployment of several AI applications. Our flagship project, [1Shan](https://1shanai.com), focuses on an **AI for cloth** initiative that blends generative AI with the fashion industry. We are also developing [Mythoverse](https://mythoverse.ai), a platform for creating and sharing stories as **audiobook-like TikTok-style videos**, and working on improving the **aesthetics** of generative models. **For more details, please visit our [website](https://1shanai.com).**
 
 <br>
 
@@ -21,7 +21,7 @@ Previously, I served as a **summer research intern** in the ENSURE program at MS
 
 ## News
 - **(02/01/2025)** **1Shan** was publicly launched, providing generative AI-driven solutions for the fashion industry.  
-- **(01/25/2025)** **Mythoverse** was publicly launched, offering a new platform for interactive storytelling through short, video-style audiobooks.  
+- **(02/06/2025)** **Mythoverse** was publicly launched, offering a new platform for interactive storytelling through short, video-style audiobooks.  
 - **Mythoverse** received the **“Best Use of Generative AI”** award at the MSU Hackathon (1/105)!
 
 <br>
