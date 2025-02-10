@@ -8,15 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-Hi there, I’m currently a second year undergraduate researcher at Michigan State University. I am fortunate enough to work under the guidance of [Dr. Feng Liu](https://liufeng2915.github.io) and [Prof. Xiaoming Liu](http://www.cse.msu.edu/~liuxm/index2.html) in MSU CVLab! During the summer of 2023, I work as a summer research intern at MSU CVLab in the ENSURE program, where I try to improve the controllability of the large diffusion models on scene level text to 3d generation.
+Hi there! I’m currently a junior at Michigan State University, conducting research under the guidance of [Dr. Feng Liu](https://liufeng2915.github.io) and [Prof. Xiaoming Liu](http://www.cse.msu.edu/~liuxm/index2.html) in the MSU CVLab. Aside from my academic pursuits, I also serve as the co-founder and CEO of 1shan Technology, where I lead the development and deployment of several applications. You can learn more about our work at [1shans.com](https://1shans.com), and check out [1shanAI](https://1shanai) for our “AI for cloth” project.
 
-My research focuses on 3D object/scene understanding, including 3D generation, 3D body reconstruction, and 3D recognition. I am also interested in adding control to large generative models. For more details, please check my [publication section](https://zianggu1.github.io/publications/)!  
+My research focuses on 3D object and scene understanding—encompassing 3D generation, 3D body reconstruction, and 3D recognition—and I’m particularly interested in adding controllability to large generative models. Lately, I’ve been exploring how to integrate human emotions and aesthetics into generative models. Previously, I was a summer research intern in the ENSURE program at MSU CVLab, where I worked on improving the controllability of large diffusion models for scene-level text-to-3D generation. For more details, feel free to check my [publications](https://zianggu1.github.io/publications/).
 
-
-Summer 2024 Internship Opportunity
-======
-I am looking for internship/REUs in the field of computer vision, machine learning, NLP, or related fields. 
-
-If you have anything you would like to discuss with me, plz send me an email to guziang@msu.edu 
+If you have any questions or would like to discuss potential collaborations, please reach out to me at **guziang@msu.edu**.
 
 
